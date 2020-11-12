@@ -87,6 +87,10 @@ h1 {
 	shape-rendering: crispEdges;
 }
 
+.xAxis text {
+	font-size: 0.75em;
+}
+
 .yAxis path {
 	stroke: #fff;
 	stroke-width: 0.5;
