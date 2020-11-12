@@ -1,0 +1,2 @@
+# appSectors
+Created with CodeSandbox
